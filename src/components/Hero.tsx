@@ -20,21 +20,21 @@ const Hero = () => {
             id: 0,
             img: "/banner-1.jpg",
             title: "Trending Items",
-            mainTitle: "WOMEN\u2019S LATEST FASHION SALE",  // Using Unicode for apostrophe
+            mainTitle: "WOMEN\u2019S LATEST FASHION SALE",
             price: "$20",
         },
         {
             id: 1,
             img: "/banner-2.jpg",
             title: "Trending Accessories",
-            mainTitle: "WOMEN\u2019S LATEST FASHION SALE",  // Using Unicode for apostrophe
+            mainTitle: "WOMEN\u2019S LATEST FASHION SALE", 
             price: "$15",
         },
         {
             id: 2,
             img: "/banner-3.jpg",
             title: "Sale Offer",
-            mainTitle: "WOMEN\u2019S LATEST FASHION SALE",  // Using Unicode for apostrophe
+            mainTitle: "WOMEN\u2019S LATEST FASHION SALE",
             price: "$30",
         },
     ]

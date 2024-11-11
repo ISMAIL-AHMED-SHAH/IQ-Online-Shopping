@@ -16,7 +16,7 @@ const Testimonials = () => {
                 height={80}
                 alt="dp"
               />
-              <h2 className="text-gray-500 font-black text-[20px]">
+              <h2 className="text-rose-400 font-black text-[20px]">
                 Naomi ZoiZoi
               </h2>
               <p>CEO & Founder Invision</p>
@@ -33,6 +33,13 @@ const Testimonials = () => {
                 find great deals, and my orders arrive so quickly. Definitely my
                 go-to place for online shopping!&quot;
               </p>
+              <Image
+                className=" py-2 flex text-left"
+                src="/quotes.svg"
+                width={30}
+                height={30}
+                alt="quotes"
+              />
             </div>
           </div>
 

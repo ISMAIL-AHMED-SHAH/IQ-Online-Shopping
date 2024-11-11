@@ -20,7 +20,7 @@ const Slide:React.FC<propsType> = (
             <b className='text-[20px] md:text-[24px] lg:text-[30px]'>{price}</b>
             .00
         </h3>
-        <div className='bg-accent text-whitetext-[14px] md:text-[16px] p-2 px-4 rounded-lg inline-block cursor-pointer hover:bg-red-400'>
+        <div className='bg-accent text-white text-[14px] md:text-[16px] p-2 px-4 rounded-lg inline-block cursor-pointer hover:bg-red-400'>
             Shop Now
         </div>
       </div>
